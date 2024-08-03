@@ -4,7 +4,7 @@ Tonfiwyor appears to be a project or a programming language name. In the provide
 
 If you are looking for a programming language, Tonfiwyor might be a hypothetical or fictional language. If it's a real project, you can explore its documentation, source code, or community resources for more information.
 
-# makefile 
+# makefile clouds and cloud services
 ```makefile 
 CXX = g++
 CXXFLAGS = -Wall -Werror -Wextra -pedantic -std=c++17 -g main.cpp
@@ -76,4 +76,5 @@ int main() {
     return 0;
 }
 ```
+# install makefile
 $-> make all
